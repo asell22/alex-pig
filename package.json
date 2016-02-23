@@ -1,0 +1,26 @@
+{
+  "name": "alex-pig",
+  "version": "1.0.0",
+  "description": "pig dice game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asell22/alex-pig.git"
+  },
+  "author": "Alex Sell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asell22/alex-pig/issues"
+  },
+  "homepage": "https://github.com/asell22/alex-pig#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
